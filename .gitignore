@@ -1,0 +1,31 @@
+# Directories
+.idea/*
+/node_modules
+/vendor
+reports/*
+.history/*
+
+# Files
+*.sublime-*
+.composer
+.DS_Store
+.env
+.env.local
+.env.overrides
+Homestead.json
+Homestead.yaml
+hubspot_export*.csv
+urls-config.php
+.phpintel/
+.phpunit.result.cache
+*.swp
+/certs/clear-*
+auth.json
+seeded.sql
+seeded.sql.gz
+
+## VS Code project settings file
+.vscode/*
+settings.json
+.history/
+npm-debug.log
